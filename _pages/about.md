@@ -20,15 +20,15 @@ I am a Master’s student in Music at Quanzhou Normal University, supervised by 
 
 Since Nanyin notation captures only the skeletal melody, its essence lies in ornaments and playing techniques. I am therefore particularly interested in expressive MIDI generation and audio synthesis that models playing techniques. Recent contributions include a demo at ISMIR LBD 2025 on expressive MIDI ornament generation, participation in RenCon 2025 for performance rendering, a presentation at HCMIR 2025 discussing improvements to interpolation-based creative music generation systems, and a poster at LLM4Music @ ISMIR 2025 on using large language models to generate audibly challenging music in IDM-like styles.
 
-My ongoing research explores cutting-edge tokenization techniques such as Vector Quantization, Residual VQ, and Finite Scalar Quantization, with potential applications extending from free jazz to chopped breakbeats and experimental works by artists like Burnt Friedman. My long-term goal is to develop human-centered generative AI that unifies notation, performance, and timbre to enable creativity-driven music and audio generation.
-
+My long-term goal is to develop human-centered generative AI for music by unifying notation, performance, and timbre. I plan to achieve this by designing interactive interfaces for creative exploration and by leveraging advanced tokenization techniques (e.g., VQ, RVQ). This work aims to empower the generation of nuanced and complex styles, such as free jazz and experimental electronica.
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Paper accepted: Weixi Zhai, **“Weak Tokenization: A Preliminary Study of Dynamic Audio Chunking for Irregular Music Generation,”** ISMIR 2025 Workshop LLM4Music.
 - *2025.07*: &nbsp;🎉🎉 Paper accepted: Weixi Zhai, **“Blaming the Algorithm: An Analysis of Interpolation Failures in MusicVAE’s Latent Space,”** 3rd Workshop on Human-Centric Music Information Research (HCMIR@ISMIR), 2025.
 - *2025.06*:&nbsp;🎉🎉 Paper accepted: Weixi Zhai, **“Leveraging PerTok and Domain-Specific Transformer Design for Expressive MIDI Ornament Generation,”** in *ISMIR 2025 Late-Breaking/Demo*.
-- *2025.06*: &nbsp;🎼🎼 Participated in the DigiScore CCOM Workshop led by Prof. Ken Fields, watched my favorite synthesizer artist Meng Qi’s new instrumental *Horizon*, and was inspired by everyone’s novel work on Digital Score Solutions in the context of AI technology.
-- *2025.03*: &nbsp;🖊🖊 Honored to participate in the **New-to-ISMIR Mentoring Program 2025** as a mentee, with [Chris Donahue](https://chrisdonahue.com/) as my mentor. Although my paper was ultimately not accepted, the experience provided me with invaluable learning opportunities and insights into the research process.
-- *2024.01*: &nbsp;🎵🎵 Joined the online workshop *“Marginalized Music Genres and AI Music Generation”*, hosted by Prof. Nick Bryan-Kinns, Prof. Qiong Wu, and Prof. Zijin Li.
+- *2025.06*: &nbsp;🎼🎼 Participated in the DigiScore CCOM Workshop led by Prof. Ken Fields, watched my favorite synthesizer artist Meng Qi’s new instrumental *Horizon*, and was inspired by everyone’s novel work on Digital Score Solutions in the context of AI technology.![Photo](images/digiscore.jpg)
+- *2025.03*: &nbsp;✍️✍️ Honored to participate in the **New-to-ISMIR Mentoring Program 2025** as a mentee, with [Chris Donahue](https://chrisdonahue.com/) as my mentor. I am immensely grateful for his generous support and expertise, which provided me with valuable guidance early in my academic career. The process of preparing a submission under his mentorship was an incredibly formative learning experience.
+- *2024.01*: &nbsp;🎵🎵 Joined the online workshop *“Marginalized Music Genres and AI Music Generation”*, hosted by Prof. Nick Bryan-Kinns, Prof. Qiong Wu, and Prof. Zijin Li.![Photo](images/marginalizedM.jpg)
+
 
 
 # 📝 Publications 
