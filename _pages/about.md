@@ -16,8 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I am a Master’s student in Music at Quanzhou Normal University, supervised by Prof. Jianbin Xiahou, participating in the AI-Based Music Generation on Nanyin Music project (Project No. FJ2023JDZ050). My research combines deep learning with the traditional Nanyin genre, aiming to bridge symbolic representation and the revival of this UNESCO-recognized heterophonic musical tradition.
 
-My research goal is to enhance musical expressiveness beyond traditional notation and to explore generative AI for marginalized or underrepresented music. I am particularly interested in pushing the boundaries of possibility in AI-driven music, sometimes exploring endless creative pathways that conventional approaches cannot reach. After participating in Prof. Ken Fields' Digiscore workshop in the context of AI, I realized that Digiscore can benefit both professional and amateur users. By visualizing music, it makes sonic material more tangible and opens up new possibilities for performance. I am therefore exploring multimodal approaches that combine generative music with interactive visualizations, enabling more creative and expressive music generation.
+Since Nanyin notation captures only the skeletal melody, its essence lies in ornaments and playing techniques. I am therefore particularly interested in expressive MIDI generation and audio synthesis that models playing techniques. Recent contributions include a demo at ISMIR LBD 2025 on expressive MIDI ornament generation, participation in RenCon 2025 for performance rendering, a presentation at HCMIR 2025 discussing improvements to interpolation-based creative music generation systems, and a poster at LLM4Music @ ISMIR 2025 on using large language models to generate audibly challenging music in IDM-like styles.
+
+My ongoing research explores cutting-edge tokenization techniques such as Vector Quantization, Residual VQ, and Finite Scalar Quantization, with potential applications extending from free jazz to chopped breakbeats and experimental works by artists like Burnt Friedman. My long-term goal is to develop human-centered generative AI that unifies notation, performance, and timbre to enable creativity-driven music and audio generation.
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Paper accepted: Weixi Zhai, **“Weak Tokenization: A Preliminary Study of Dynamic Audio Chunking for Irregular Music Generation,”** ISMIR 2025 Workshop LLM4Music.
