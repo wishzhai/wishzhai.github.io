@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research goal is to enhance musical expressiveness beyond traditional notation and to explore generative AI for marginalized or underrepresented music. I am particularly interested in pushing the boundaries of possibility in AI-driven music, sometimes exploring endless creative pathways that conventional approaches cannot reach. After participating in Prof. Ken Fields' Digiscore workshop in the context of AI, I realized that Digiscore can benefit both professional and amateur users. By visualizing music, it makes sonic material more tangible and opens up new possibilities for performance. I am therefore exploring multimodal approaches that combine generative music with interactive visualizations, enabling more creative and expressive music generation.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 Paper accepted: Weixi Zhai, **“Weak Tokenization: A Preliminary Study of Dynamic Audio Chunking for Irregular Music Generation,”** ISMIR 2025 Workshop LLM4Music.
+- *2025.07*: &nbsp;🎉🎉 Paper accepted: Weixi Zhai, **“Blaming the Algorithm: An Analysis of Interpolation Failures in MusicVAE’s Latent Space,”** 3rd Workshop on Human-Centric Music Information Research (HCMIR@ISMIR), 2025.
+- *2025.06*:&nbsp;🎉🎉 Paper accepted: Weixi Zhai, **“Leveraging PerTok and Domain-Specific Transformer Design for Expressive MIDI Ornament Generation,”** in *ISMIR 2025 Late-Breaking/Demo*.
+- *2025.06*: &nbsp;🎼🎼 Participated in the DigiScore CCOM Workshop led by Prof. Ken Fields, watched my favorite synthesizer artist Meng Qi’s new instrumental *Horizon*, and was inspired by everyone’s novel work on Digital Score Solutions in the context of AI technology.
+- *2025.03*: &nbsp;🖊🖊 Honored to participate in the **New-to-ISMIR Mentoring Program 2025** as a mentee, with [Chris Donahue](https://chrisdonahue.com/) as my mentor. Although my paper was ultimately not accepted, the experience provided me with invaluable learning opportunities and insights into the research process.
+- *2024.01*: &nbsp;🎵🎵 Joined the online workshop *“Marginalized Music Genres and AI Music Generation”*, hosted by Prof. Nick Bryan-Kinns, Prof. Qiong Wu, and Prof. Zijin Li.
+
 
 # 📝 Publications 
 
@@ -42,17 +44,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 – 2026.06 (expected)*, Master of Arts in Music, Quanzhou Normal University, China  
+  Thesis (in progress): Deep Learning–Based Music Generation on Nanyin Musical Features (UNESCO-recognized traditional Chinese music genre)  
+  Advisor: Prof. Jianbin Xiahou  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2017.09 – 2021.06*, Bachelor of Science in Communication Engineering, China West Normal University, China  
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
