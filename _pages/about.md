@@ -20,7 +20,7 @@ I am a Master’s student in Music at Quanzhou Normal University, supervised by 
 
 <!-- CV  -->
 <p>
-  <a href="{{ site.author.cv }}" class="btn btn--primary" target="_blank">Download CV</a>
+  <a href="{{ site.author.cv }}" class="btn btn--primary" target="_blank">CV</a>
 </p>
 
 
