@@ -24,8 +24,8 @@ author:
   name             : "Weixi Zhai"
   avatar           : "images/avatar.jpg"
   bio              : "Quanzhou Normal University"
-  location         : "China"
-  cv               :"docs/CV_WeixiZhai (1).pdf"
+  location         : 
+  cv               : "docs/CV_WeixiZhai (1).pdf"
   pubmed           : 
   googlescholar    : 
   email            : "wishzhai@gmail.com"
