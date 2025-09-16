@@ -1,36 +1,19 @@
 ---
 permalink: /research-statement/
 title: "Research Statement"
-author_profile: true
+author_profile: false
 ---
 
-# Research Statement
+Research Statement
 
 My research goal is to develop generative AI systems that make music creation more **expressive, controllable, and accessible**, enabling both preservation of cultural heritage and the exploration of new creative frontiers. Recent progress in music generation has produced high-fidelity audio, but the gap between these technical advances and real-world usability remains large. My work aims to bridge this gap by building models that understand the nuance of human musicianship, support a wide range of creative controls, and integrate seamlessly into co-creative workflows. Along this journey, I have greatly benefited from the support of the research community—through opportunities such as the **New-to-ISMIR Paper Mentoring Program, the ICML NewinML workshop, and an ISMIR travel grant**, I gained new horizons and perspectives that have shaped my research direction. To further grow as a researcher and contribute back to this community, I intend to pursue a PhD.
 
----
-
-## Nanyin as a Starting Point
-
 I first engaged with this challenge through the lens of **Nanyin**, a UNESCO-recognized Chinese musical tradition. As part of my Master’s research, I constructed a pipa-centric dataset and designed a heterogeneous graph neural network capable of reconstructing heterophonic accompaniments. This project not only addressed the scarcity of digital resources for Nanyin but also underscored my broader interest in how generative models can support low-resource and culturally diverse music traditions. It taught me that music AI must balance **technical innovation with cultural sensitivity**, and it inspired my long-term vision of human-centered generative music systems.
-
----
-
-## Expressive and Unified Generative Models
 
 Building on this foundation, I have been exploring **expressive and unified generative modeling frameworks** that connect symbolic, audio, and multimodal representations. For example, I designed new approaches to ornamentation modeling, introduced dynamic audio chunking for irregular structures, and proposed narrative-driven multi-track generation. These works reflect my belief that advances in **representation learning and tokenization** are essential for capturing musical nuance, whether in the embellishments of a performance or in the discontinuities of experimental genres like glitch and IDM.
 
----
-
-## Co-Creative Generative Interfaces
-
 Another strand of my research investigates **co-creative generative interfaces**. My analysis of interpolation failures in MusicVAE revealed how conventional architectures encode deep-seated stylistic biases, excluding more experimental aesthetics. Motivated by this, I have begun to design interpolation-driven exploration tools that allow users to traverse the “in-between” spaces of musical style, transforming model limitations into new creative opportunities. I see this as part of a larger agenda of designing **interactive, human-centered systems** that respond to the needs of both professional musicians and beginners—systems that might accompany a live performance in real time, or guide novices by dynamically adjusting musical energy and structure.
 
----
+Looking forward, I envision generative models that are not only **technically capable** but also **musically aware**, combining interpretability, adaptability, and collaboration. This vision extends to several concrete directions: integrating physics-informed synthesis with diffusion and token-based models to capture the subtle gestures of master performers; developing embodied interfaces for AI-driven virtual bands where users can inhabit avatars and perform in real time; and building evaluation protocols that move beyond static metrics to reflect the dynamics of true human–AI collaboration.
 
-## Future Directions
-
-Looking forward, I envision generative models that are not only **technically capable** but also **musically aware**, combining interpretability, adaptability, and collaboration. This vision extends to several concrete directions:  
-- integrating physics-informed synthesis with diffusion and token-based models to capture the subtle gestures of master performers;  
-- developing embodied interfaces for AI-driven virtual bands where users can inhabit avatars and perform in real time;  
-- building evaluation protocols that move beyond static metrics to reflect the dynamics of true
+By pursuing these directions, my aim is to expand the role of generative AI in music from a passive tool into an **active creative partner**—one that preserves cultural traditions while opening new spaces for improvisation, performance, and discovery.
