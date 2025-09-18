@@ -1,7 +1,6 @@
 ---
 permalink: /research-statement/
 title: "Research Statement"
-author_profile: false
 ---
 
 Research Statement
@@ -17,3 +16,4 @@ Another strand of my research investigates **co-creative generative interfaces**
 Looking forward, I envision generative models that are not only **technically capable** but also **musically aware**, combining interpretability, adaptability, and collaboration. This vision extends to several concrete directions: integrating physics-informed synthesis with diffusion and token-based models to capture the subtle gestures of master performers; developing embodied interfaces for AI-driven virtual bands where users can inhabit avatars and perform in real time; and building evaluation protocols that move beyond static metrics to reflect the dynamics of true human–AI collaboration.
 
 By pursuing these directions, my aim is to expand the role of generative AI in music from a passive tool into an **active creative partner**—one that preserves cultural traditions while opening new spaces for improvisation, performance, and discovery.
+
