@@ -19,7 +19,7 @@ redirect_from:
 I am a Master’s student in Music at Quanzhou Normal University, supervised by Prof. Jianbin Xiahou, participating in the AI-Based Music Generation on Nanyin Music project (Project No. FJ2023JDZ050). My research combines deep learning ...
 
 <p>
-  <a href="/docs/CV.pdf" class="btn btn--primary" target="_blank">Download CV</a>
+  <a href="/docs/CV.pdf" class="btn btn--primary" target="_blank">CV</a>
 </p>
 
 [Read my Research Statement](/research-statement/)
