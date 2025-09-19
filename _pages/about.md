@@ -21,8 +21,11 @@ I am a Master’s student in Music at Quanzhou Normal University, supervised by 
 <p>
   <a href="/docs/CV.pdf" class="btn btn--primary" target="_blank">CV</a>
 </p>
+<p>
+  <a href="/docs/rs.pdf" class="btn btn--primary" target="_blank">Reasearch Statement</a>
+</p>
 
-[Read my Research Statement](/research-statement/)
+
 
 
 Since Nanyin notation captures only the skeletal melody, its essence lies in ornaments and playing techniques. I am therefore particularly interested in expressive MIDI generation and audio synthesis that models playing techniques. Recent contributions include a demo at ISMIR LBD 2025 on expressive MIDI ornament generation, participation in RenCon 2025 for performance rendering, a presentation at HCMIR 2025 discussing improvements to interpolation-based creative music generation systems, and a poster at LLM4Music @ ISMIR 2025 on using large language models to generate audibly challenging music in IDM-like styles.
